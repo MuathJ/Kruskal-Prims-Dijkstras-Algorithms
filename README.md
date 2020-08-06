@@ -3,7 +3,7 @@
 Output Graph (Nodes, Edges & Weights) as:
 1. Array of Structures
 2. Matrix
-3. 3-	Array of Linked Lists
+3. Array of Linked Lists
 
 Apply the Following Algorithms:
 1. Kruskal Algorithm
